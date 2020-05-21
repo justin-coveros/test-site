@@ -1,58 +1,28 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Development Solution – Software Development Solution</title><link>https://justin-coveros.github.io/test-site/</link><description>Recent content on Software Development Solution</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://justin-coveros.github.io/test-site/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Easy documentation with Docsy</title><link>https://justin-coveros.github.io/test-site/blog/2018/10/06/easy-documentation-with-docsy/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://justin-coveros.github.io/test-site/blog/2018/10/06/easy-documentation-with-docsy/</guid><description>
-&lt;img src="https://justin-coveros.github.io/test-site/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_2.png" width="640" height="253"/>
-&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
-&lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
-&lt;h2 id="including-images">Including images&lt;/h2>
-&lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
-&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="https://justin-coveros.github.io/test-site/test-site/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png" width="600" height="300">
-&lt;div class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-Fetch and scale an image in the upcoming Hugo 0.43.
-&lt;small class="text-muted">&lt;br/>Photo: Riona MacNamara / CC-BY-CA&lt;/small>&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Development Solution – Tutorials</title><link>https://justin-coveros.github.io/test-site/docs/tutorials/</link><description>Recent content in Tutorials on Software Development Solution</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-coveros.github.io/test-site/docs/tutorials/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://justin-coveros.github.io/test-site/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://justin-coveros.github.io/test-site/docs/tutorials/multi-bear/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
-&lt;/div>
-&lt;p>The front matter of this post specifies properties to be assigned to all image resources:&lt;/p>
-&lt;pre>&lt;code>resources:
-- src: &amp;quot;**.{png,jpg}&amp;quot;
-title: &amp;quot;Image #:counter&amp;quot;
-params:
-byline: &amp;quot;Photo: Riona MacNamara / CC-BY-CA&amp;quot;
-&lt;/code>&lt;/pre>&lt;p>To include the image in a page, specify its details like this:&lt;/p>
-&lt;pre>&lt;code>
-&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="https://justin-coveros.github.io/test-site/test-site/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png" width="600" height="300">
-&lt;div class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-Fetch and scale an image in the upcoming Hugo 0.43.
-&lt;small class="text-muted">&lt;br/>Photo: Riona MacNamara / CC-BY-CA&lt;/small>&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/code>&lt;/pre>&lt;p>The image will be rendered at the size and byline specified in the front matter.&lt;/p></description></item><item><title>Blog: The second blog post</title><link>https://justin-coveros.github.io/test-site/blog/2018/10/06/the-second-blog-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://justin-coveros.github.io/test-site/blog/2018/10/06/the-second-blog-post/</guid><description>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
+&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
+&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
+&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
 &lt;blockquote>
 &lt;p>There should be no margin above this first sentence.&lt;/p>
 &lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
 &lt;p>There should be no margin below this final sentence.&lt;/p>
 &lt;/blockquote>
-&lt;h2 id="first-header">First Header&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h2 id="first-header-2">First Header 2&lt;/h2>
+&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
+&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
 &lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
-occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
-pignora hinc reppulit nos &lt;strong>aut&lt;/strong>, aptos, ipsa.&lt;/p>
-&lt;p>Meae optatos &lt;em>passa est&lt;/em> Epiros utiliter &lt;em>Talibus niveis&lt;/em>, hoc lata, edidit.
-Dixi ad aestum.&lt;/p>
-&lt;h2 id="header-2">Header 2&lt;/h2>
+&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
+&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
 &lt;blockquote>
 &lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="header-3">Header 3&lt;/h3>
 &lt;pre>&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
+&lt;h4 id="header-4">Header 4&lt;/h4>
 &lt;ul>
 &lt;li>This is an unordered list following a header.&lt;/li>
 &lt;li>This is an unordered list following a header.&lt;/li>
@@ -92,27 +62,27 @@ Dixi ad aestum.&lt;/p>
 &lt;hr>
 &lt;p>Here is an unordered list:&lt;/p>
 &lt;ul>
-&lt;li>Salt-n-Pepa&lt;/li>
-&lt;li>Bel Biv DeVoe&lt;/li>
-&lt;li>Kid &amp;lsquo;N Play&lt;/li>
+&lt;li>Liverpool F.C.&lt;/li>
+&lt;li>Chelsea F.C.&lt;/li>
+&lt;li>Manchester United F.C.&lt;/li>
 &lt;/ul>
 &lt;p>And an ordered list:&lt;/p>
 &lt;ol>
-&lt;li>Michael Jackson&lt;/li>
-&lt;li>Michael Bolton&lt;/li>
-&lt;li>Michael Bublé&lt;/li>
+&lt;li>Michael Brecker&lt;/li>
+&lt;li>Seamus Blake&lt;/li>
+&lt;li>Branford Marsalis&lt;/li>
 &lt;/ol>
 &lt;p>And an unordered task list:&lt;/p>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a sample markdown document&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
 &lt;/ul>
 &lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Steal underpants&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
 &lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Profit!&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
 &lt;/ul>
 &lt;p>And a nested list:&lt;/p>
 &lt;ul>
@@ -134,7 +104,7 @@ Dixi ad aestum.&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition terms are bold.&lt;/p>
+&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
 &lt;dl>
 &lt;dt>Name&lt;/dt>
 &lt;dd>Godzilla&lt;/dd>
@@ -251,9 +221,10 @@ bar := &amp;quot;foo&amp;quot;;
 &lt;/table>
 &lt;hr>
 &lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/300/200/" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
 &lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/1200/800/" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
 &lt;h2 id="components">Components&lt;/h2>
 &lt;h3 id="alerts">Alerts&lt;/h3>
 &lt;p>
@@ -261,62 +232,60 @@ bar := &amp;quot;foo&amp;quot;;
 This is an alert.
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note:&lt;/h4>
+&lt;h4 class="alert-heading">Note&lt;/h4>
 This is an alert with a title.
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
+&lt;/div>
+&lt;div class="alert alert-success" role="alert">
 This is a successful alert.
 &lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a warning!
+&lt;div class="alert alert-warning" role="alert">
+This is a warning.
 &lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Warning!&lt;/h4>
-This is a warning with a title!
+&lt;div class="alert alert-warning" role="alert">
+&lt;h4 class="alert-heading">Warning&lt;/h4>
+This is a warning with a title.
 &lt;/div>
 &lt;/p>
-&lt;h2 id="sizing">Sizing&lt;/h2>
+&lt;h2 id="another-heading">Another Heading&lt;/h2>
 &lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="parameters-available">Parameters available&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-pixels">Using pixels&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-rem">Using rem&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h2 id="memory">Memory&lt;/h2>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="ram-to-use">RAM to use&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="more-is-better">More is better&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="used-ram">Used RAM&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h3 id="this-document">This Document&lt;/h3>
+&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
+&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
+&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
+&lt;h3 id="contact-info">Contact Info&lt;/h3>
+&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
+&lt;h3 id="external-links">External Links&lt;/h3>
+&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Another Great Release</title><link>https://justin-coveros.github.io/test-site/blog/2018/01/04/another-great-release/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate><guid>https://justin-coveros.github.io/test-site/blog/2018/01/04/another-great-release/</guid><description>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://justin-coveros.github.io/test-site/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://justin-coveros.github.io/test-site/docs/tutorials/tutorial2/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
+&lt;/div>
+&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
+&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
+&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
 &lt;blockquote>
 &lt;p>There should be no margin above this first sentence.&lt;/p>
 &lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
 &lt;p>There should be no margin below this final sentence.&lt;/p>
 &lt;/blockquote>
-&lt;h2 id="first-header">First Header&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h2 id="first-header-2">First Header 2&lt;/h2>
+&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
+&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
 &lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
-occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
-pignora hinc reppulit nos &lt;strong>aut&lt;/strong>, aptos, ipsa.&lt;/p>
-&lt;p>Meae optatos &lt;em>passa est&lt;/em> Epiros utiliter &lt;em>Talibus niveis&lt;/em>, hoc lata, edidit.
-Dixi ad aestum.&lt;/p>
-&lt;h2 id="header-2">Header 2&lt;/h2>
+&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
+&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
 &lt;blockquote>
 &lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="header-3">Header 3&lt;/h3>
 &lt;pre>&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
+&lt;h4 id="header-4">Header 4&lt;/h4>
 &lt;ul>
 &lt;li>This is an unordered list following a header.&lt;/li>
 &lt;li>This is an unordered list following a header.&lt;/li>
@@ -356,27 +325,27 @@ Dixi ad aestum.&lt;/p>
 &lt;hr>
 &lt;p>Here is an unordered list:&lt;/p>
 &lt;ul>
-&lt;li>Salt-n-Pepa&lt;/li>
-&lt;li>Bel Biv DeVoe&lt;/li>
-&lt;li>Kid &amp;lsquo;N Play&lt;/li>
+&lt;li>Liverpool F.C.&lt;/li>
+&lt;li>Chelsea F.C.&lt;/li>
+&lt;li>Manchester United F.C.&lt;/li>
 &lt;/ul>
 &lt;p>And an ordered list:&lt;/p>
 &lt;ol>
-&lt;li>Michael Jackson&lt;/li>
-&lt;li>Michael Bolton&lt;/li>
-&lt;li>Michael Bublé&lt;/li>
+&lt;li>Michael Brecker&lt;/li>
+&lt;li>Seamus Blake&lt;/li>
+&lt;li>Branford Marsalis&lt;/li>
 &lt;/ol>
 &lt;p>And an unordered task list:&lt;/p>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a sample markdown document&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
 &lt;/ul>
 &lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Steal underpants&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
 &lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Profit!&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
 &lt;/ul>
 &lt;p>And a nested list:&lt;/p>
 &lt;ul>
@@ -398,7 +367,7 @@ Dixi ad aestum.&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition terms are bold.&lt;/p>
+&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
 &lt;dl>
 &lt;dt>Name&lt;/dt>
 &lt;dd>Godzilla&lt;/dd>
@@ -515,9 +484,10 @@ bar := &amp;quot;foo&amp;quot;;
 &lt;/table>
 &lt;hr>
 &lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/300/200/" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
 &lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/1200/800/" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
 &lt;h2 id="components">Components&lt;/h2>
 &lt;h3 id="alerts">Alerts&lt;/h3>
 &lt;p>
@@ -525,35 +495,33 @@ bar := &amp;quot;foo&amp;quot;;
 This is an alert.
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note:&lt;/h4>
+&lt;h4 class="alert-heading">Note&lt;/h4>
 This is an alert with a title.
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
+&lt;/div>
+&lt;div class="alert alert-success" role="alert">
 This is a successful alert.
 &lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a warning!
+&lt;div class="alert alert-warning" role="alert">
+This is a warning.
 &lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Warning!&lt;/h4>
-This is a warning with a title!
+&lt;div class="alert alert-warning" role="alert">
+&lt;h4 class="alert-heading">Warning&lt;/h4>
+This is a warning with a title.
 &lt;/div>
 &lt;/p>
-&lt;h2 id="sizing">Sizing&lt;/h2>
+&lt;h2 id="another-heading">Another Heading&lt;/h2>
 &lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="parameters-available">Parameters available&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-pixels">Using pixels&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-rem">Using rem&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h2 id="memory">Memory&lt;/h2>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="ram-to-use">RAM to use&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="more-is-better">More is better&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="used-ram">Used RAM&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h3 id="this-document">This Document&lt;/h3>
+&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
+&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
+&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
+&lt;h3 id="contact-info">Contact Info&lt;/h3>
+&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
+&lt;h3 id="external-links">External Links&lt;/h3>
+&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
 &lt;/code>&lt;/pre></description></item></channel></rss>
